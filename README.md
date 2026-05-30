@@ -15,20 +15,6 @@ Runesky Video Player is a RuneLite plugin that displays user-provided local medi
 
 The plugin expects a local media pack folder containing:
 
-- `frames/` - extracted image frames
-- `audio.wav` - optional synchronized audio file
-
-Example:
-
-```text
-MyMediaPack/
-├─ frames/
-│  ├─ frame_000001.jpg
-│  ├─ frame_000002.jpg
-│  └─ ...
-└─ audio.wav
-```
-
 ## Notes
 
 This plugin is only a local display tool. It does not include media, fetch media, recommend media sources, or provide any hosted content. All files must already exist locally on the user's computer.
