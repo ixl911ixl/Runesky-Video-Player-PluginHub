@@ -7,7 +7,6 @@ Runesky Video Player is a RuneLite plugin that displays user-provided local medi
 ## Features
 
 - Displays extracted video frames as an overlay
-- Optional synchronized local audio playback
 - Adjustable size, position, opacity, alignment, and fade settings
 - Supports full-screen or custom-positioned display modes
 - Uses local files only
